@@ -1,0 +1,21 @@
+#d-auto-scroll-button {
+  position: absolute;
+  z-index: 100;
+  block-size: 56px;
+  inline-size: 56px;
+  inset-block-end: 24px;
+  inset-inline-end: 24px;
+  border-radius: 50%;
+  color: hsl(0 0% 95%);
+  background-color: transparent;
+  padding: 0;
+  border: none;
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+}
+
+#d-auto-scroll-button:hover,
+#d-auto-scroll-button.active {
+  background-color: hsl(0 0% 100% / 0.1);
+}
