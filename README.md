@@ -2,8 +2,7 @@
 
 ## Descripción
 
-Agrega el boton de abajo a la izquierda que cuando está activo hace scroll automáticamente en Youtube Shorts.
-
+Extension that adds a button at the bottom left that, when activated, automatically scrolls YouTube Shorts. 👆🏼
 
 ## Screenshots
 
